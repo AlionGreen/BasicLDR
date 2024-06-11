@@ -1,5 +1,5 @@
 # Description
-ReflectiveDLLLoader is a tool designed to download a PNG from a specified URL into memory, extract and decrypt an embedded DLL from the last IDAT section of PNG, and execute it using Reflective DLL Injection technique. 
+BasicLDR is a tool designed to download a PNG from a specified URL into memory, extract and decrypt an embedded DLL from the last IDAT section of PNG, and execute it using Reflective DLL Injection technique. 
 
 Reflective DLL Injection, first introduced by Stephen Fewer, is a well-known technique for loading DLLs from memory. This project does not introduce any new techniques. Its primary purpose is for educational learning, allowing me to gain a deeper understanding of Reflective DLL Injection and other malware techniques by reimplementing them from scratch. Additionally, it provides a foundation for developing a custom loader builder with various evasive techniques in the future. 
 
